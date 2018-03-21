@@ -2,8 +2,8 @@
 
 ## Methods:
 
-int() -> converts a string into an integer
-str() -> converts an integer into a string
+int() -> converts a string into an integer \n
+str() -> converts an integer into a string \n
 type() -> to see what kind of data type is it
 upper() -> CAPS ex. my_name.upper()
 lower() -> lower ex. my_name.lower()
